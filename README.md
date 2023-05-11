@@ -4,4 +4,4 @@ Sadece CSS ve HTML kullanarak Slider hazırlanmıştır.CSS kullanımını peki�
 HTML VE CSS ile dinamik yapısı desteklendi 
 <h3>Ekran Görüntüsü :</h3>
 
-![screenshot](screenshot.gif)
+![screenshot](screenshot.gif.gif)
